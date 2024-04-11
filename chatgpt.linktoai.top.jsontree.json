@@ -1,0 +1,24 @@
+var site_tree_node = {
+  "url": "https://chatgpt.linktoai.top/",
+  "incount": "1",
+  "outcount": "4",
+  "title": "ChatG...",
+  "childs": [
+  {
+    "url": "https://chatgpt.linktoai.top/index.html",
+    "incount": "3",
+    "outcount": "2",
+    "title": "ChatG...",
+    "childs": [
+        ]
+  }
+  ,{
+    "url": "https://chatgpt.linktoai.top/chatgpt定价.html",
+    "incount": "3",
+    "outcount": "0",
+    "title": "null",
+    "childs": [
+        ]
+  }
+  ]
+}
